@@ -1,1 +1,1 @@
-# Tema-Finala-AF
+# C++ class with fundamental algorithms
